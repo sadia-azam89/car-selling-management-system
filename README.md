@@ -1,7 +1,7 @@
 
 # Car Selling Management System
 
-This SQL project centers around data retrieval from a comprehensive car database, with a series of queries designed to extract valuable information. The dataset is provided in an Excel file and pertains to a system managing records of used cars intended for sale. The project description is as follows:
+This My SQL project centers around data retrieval from a comprehensive car database, with a series of queries designed to extract valuable information. The dataset is provided in an Excel file and pertains to a system managing records of used cars intended for sale. The project description is as follows:
 
 ## Project Overview
 
